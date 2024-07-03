@@ -1,0 +1,3 @@
+/home/ani/CLionProjects/tomatoC/cmake-build-debug/CMakeFiles/tomatoC.dir
+/home/ani/CLionProjects/tomatoC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ani/CLionProjects/tomatoC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
